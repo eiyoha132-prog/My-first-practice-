@@ -177,4 +177,4 @@ This analysis provides valuable insights into sales performance, customer behavi
 
 📎 Author
 IYOHA (Tega Emmanuel)
-Data Analyst | Python Enthusiast | Interior Designer 🎨
+📊 Data Analyst |💻 Python Enthusiast |🎨 Interior Designer 
